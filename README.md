@@ -5,7 +5,8 @@ This github acccount is meant to be a one-way stop for anything related PDF writ
 
 If you know about a PDF related library written in Rust that is not mentioned here, plase let me know.
 
-My name is Patrik Simic and my main github repo is: [github.com/patrik64](https://github.com/patrik64/)
+My name is Patrik Simic, a Rust/C++ programmer (currently looking for work) 
+and my main github repo is: [github.com/patrik64](https://github.com/patrik64/)
 
 <!--
 **apryse/apryse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
